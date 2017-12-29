@@ -41,51 +41,75 @@ Article II - Board of Directors
 
 ### Section 1. Power of Board and Qualification of Directors
 
-The Corporation shall be managed by its board of directors (the "Board of Directors" or the "Board", and each member of the Board, a "Director"). Each Director shall be at least eighteen years of age.
+a. The Corporation shall be managed by its board of directors (the "Board of Directors" or the "Board", and each member of the Board, a "Director").
+
+b. Each Director shall be a Regular Member or Associate Member in good standing.
+
+c. Each Director shall be at least eighteen years of age.
 
 ### Section 2. Number and Term of Office
 
-a. The Corporation shall be governed by a Board of Directors numbering not less than one (1) Director. Members of the Board of Directors shall be elected by the incumbent Directors. Each Director shall hold office until the next annual meeting of shareholders and until his successor shall have been elected and qualified.
+a. The Corporation shall be governed by a Board of Directors numbering not less than one (1) Directors.  The Board of Directors shall be elected by majority vote of the Members at the annual all-members Meeting. Each Director shall hold office until the next annual all-members meeting at which the election of Directors is in the regular order of business and until their successors shall have been elected and qualified.
 
 b. Each Director shall have one vote.
 
 ### Section 3. Organization
 
-At each meeting of the Board of Directors, the President, or, in the absence of the President, a Vice President, shall preside, or in the absence of either of such officers, a chairman chosen by a majority of the Directors present shall preside.  The Secretary shall act as secretary of the Board of Directors.  In the event the Secretary shall be absent from any meeting of the Board of Directors, the meeting shall select its secretary.
+At each meeting of the Board of Directors, the President, or, in the absence of the President, the President Elect, shall preside, or in the absence of either of such officers, a chairman chosen by a majority of the Directors present shall preside.  The Secretary shall act as secretary of the Board of Directors.  In the event the Secretary shall be absent from any meeting of the Board of Directors, the meeting shall select its secretary.
 
 ### Section 4. Resignations and Removal of Directors
 
 a. Any Director of the Corporation may resign at any time by giving written notice to the President or to the Secretary. Such resignation shall take effect at the time specified therein or, if no time be specified, then on delivery.
 
-b. Any or all of the Directors may be removed with or without cause by vote of the Directors provided there is a quorum of not less than a majority of the entire Board of Directors present at the meeting of Directors at which such action is taken.
+b. Any or all of the Directors may be removed with or without cause by two-thirds vote of the Directors provided there is a quorum of not less than a majority of the entire Board of Directors present at the meeting of Directors at which such action is taken.
 
 ### Section 5. Newly Created Directorships and Vacancies
 
-Newly created Directorships resulting from an increase in the number of Directors and vacancies occurring in the Board of Directors for any reason shall be filled by vote of a majority of Directors then in office, regardless of their number. Directors elected to fill newly created directorships shall hold office in accordance with the classification ()if Directors are classified) and until their successors have been elected and qualified. Directors elected to fill vacancies shall serve until the next annual meeting at which the election of Directors is in the regular order of business and until their successors are elected and have qualified.
+Newly created Directorships resulting from an increase in the number of Directors and vacancies occurring in the Board of Directors for any reason shall be filled by vote of a majority of Directors then in office, regardless of their number. Directors elected to fill newly created directorships shall hold office in accordance with the classification (if Directors are classified) and until their successors have been elected and qualified.
 
 ### Section 6. Action by the Board of Directors
 
-a. Except as otherwise provided by law or in there Bylaws, the act of the Board of Directors means action at a meeting of the Board by vote of a majority of the Directors present at the time of the vote, if a quorum is present at such time.
+a. Except as otherwise provided by law or in these Bylaws, the act of the Board of Directors means action at a meeting of the Board by vote of a majority of the Directors present at the time of the vote, if a quorum is present at such time.
 
 b. Any action required or permitted to be taken by the Board of Directors or any committee thereof may be taken without a meeting if all members of the Board or the committee consent in writing to the adoption of a resolution authorizing the action.  The resolution and the written consents there to by the members of the Board or committee shall be filed with the minutes of the proceedings of the Board or committee.
 
 c. Any one or more members of the Board of Directors or any committee thereof may participate in a meeting of such Board or committee by means of a telephone conference or similar communications equipment allowing all persons participating in the meeting to hear each other at the same time. Participation by such means shall constitute present in person at a meeting.
 
-### Section 7. Place of Meeting
+### Section 7. Compensation
 
-The Board of Directors may hold its meeting sat the principal office of the Corporation, or at such place or places within or without the State of New Hampshire as the Board of Directors may from time to time by resolution determine.
+Directors shall receive no compensation for their services but may be reimbursed for the expenses reasonably incurred by them in the performance of their duties.
 
-### Section 8. Annual Meetings
+Article III - Meetings
+----------------------
+
+### Section 1. Annual All-Member Meeting
+
+a. A meeting for all Members (the "All-Member Meeting") shall be held at least once each academic year. The All-Member Meeting shall be scheduled with the input and consent of the string program director(s).
+
+b. Directors shall be elected by the Members at the All-Member meeting.  Should an All-Member Meeting be impossible to organize, elections may be held via paper ballots or electronic means.
+
+c. The assembled Members at an All-Member Meeting shall constitute a quorum.
+
+### Section 2. Annual Meetings
 
 As soon as practical after each annual election of Directors, the Board of Directors shall meet for the purpose of organization and the transaction of other business. Notice of such meeting need not be given. Such first meeting may be held at any other time; and if it is held at another time, notice shall be given as hereinafter provided for special meetings of the Board of Directors.
 
-### Section 9. Regular Meetings
+### Section 3. Regular Meetings
 
-Regular meetings of the Board of Directors may be held without notice at such times as may be fixed from time to time by resolution of the Board of Directors.
+a. Regular meetings of the Board of Directors may be held without notice at such times as may be fixed from time to time by resolution of the Board of Directors.
+b. Regular meetings shall be held when necessary, but not less than 3 times per academic year.
 
-### Section 10. Special Meetings
+### Section 4. Special Meetings
 
-Special meetings of the Board of Directors shall be held whenever called by the President, or by at least two (2) Directors who may call special meetings of the Directors. Notice shall be given orally, by telephone, telefax, e-mail, or mail and shall state the purposes, time and place of the meeting. If notice is given orally, in person or by telephone, it shall be given not less than one day before the meeting; if it is given by telefax, e-mail or mail, it shall be given not less than three days before the meeting.
+a. Special meetings of the Board of Directors shall be held whenever called by the President, or by a majority of Directors who may call special meetings of the Directors.
+
+b. Notice shall be given orally, by telephone, telefax, e-mail, or mail and shall state the purposes, time and place of the meeting. If notice is given orally, in person or by telephone, it shall be given not less than one day before the meeting; if it is given by telefax, e-mail or mail, it shall be given not less than three days before the meeting.
+
+c. Business transacted at all special meetings shall be confined to the objects stated in the call and matters germane thereto.
+
+### Section 5. Place of Meeting
+
+The Board of Directors may hold its meetings at the principal office of the Corporation, or at such place or places within or without the State of New Hampshire as the Board of Directors may from time to time by resolution determine.
 
 ### Section 11. Waivers of Notice
 
@@ -93,16 +117,12 @@ Notice of a meeting need not be given to any Director who submits a signed waive
 
 ### Section 12. Quorum
 
-a. A majority of the entire Board of shall constitute a quorum for the transaction of business.
+a. A two-thirds majority of the entire Board of shall constitute a quorum for the transaction of business.
 
 b. A majority of the Directors present, whether or not a quorum is present, may adjourn any meeting to another time and place without notice to any Director.
 
-### Section 13. Compensation
-
-Directors shall receive no compensation for their services by may be reimbursed for the expenses reasonably incurred by them in the performance of their duties.
-
-Article III - Committees
-------------------------
+Article IV - Committees
+-----------------------
 
 ### Section 1. Nominating Committee
 
@@ -140,8 +160,8 @@ Each committee of the Board and every member thereof shall serve at the pleasure
 
 The Board of Directors my designate one (1) of more Directors as alternate members of the Executive Committee or of any standing committee of the Board, who may replace any absent member or members at any meeting of such committee.
 
-Article IV - Officers
----------------------
+Article V - Officers
+--------------------
 
 ### Section 1. Number
 
@@ -191,8 +211,8 @@ The Board of Directors may delegate to any officer or committee the power to app
 
 The President, the Vice Presidents, the Treasurer, the Secretary, and each of them, shall have power to assign, or to endorse for transfer, under the corporate seal, and to deliver, any stock, bonds, subscription rights, or other securities, or any beneficial interest therein, held or owned by the Corporation.
 
-Article V - Contracts, Checks, Drafts and Bank Accounts
--------------------------------------------------------
+Article VI - Contracts, Checks, Drafts and Bank Accounts
+--------------------------------------------------------
 
 ### Section 1. Execution of Contracts
 
@@ -210,8 +230,8 @@ All checks, drafts and other orders for the payment of money out of the funds of
 
 All funds of the Corporation not otherwise employed shall be deposited from time to time to the credit of the Corporation in such banks, trust companies or other depositories as the Board of Directors may select.
 
-Article VI - Indemnification and Insurance
-------------------------------------------
+Article VII - Indemnification and Insurance
+-------------------------------------------
 
 ### Section 1. Authorized Indemnification
 
@@ -245,8 +265,8 @@ The Corporation is not required to purchase Directors' and officers' liability i
 
 The provisions of this Article VI shall not limit or exclude any other rights to which any person may be entitled under law or contract. The Board of Directors is authorized to enter into agreements on behalf of the Corporation with any Director, officers, employee or volunteer providing them rights to indemnification or advancement of expenses in connection with potential indemnification in addition to the provisions therefore in this Article VI, subject in all cases to the limitations of Section 2 of this Article VI.
 
-Article VII - Compensation
---------------------------
+Article VIII - Compensation
+---------------------------
 
 ### Section 1. Reasonable Compensation
 
@@ -260,8 +280,8 @@ Before approving the compensation of an officer, the Board shall determine that 
 
 The Board shall set forth the basis for its decisions with respect to compensation in the minutes of the meeting at which the decisions are made, including the conclusions of this evaluation and the basis for determining that the individual's compensation was reasonable in light of the evaluation and the comparability data.
 
-Article VIII - General
-----------------------
+Article IX - General
+--------------------
 
 ### Section 1. Office
 
@@ -279,7 +299,7 @@ No loans shall be made by the Corporation to its Directors or offices, or to any
 
 The fiscal year of the Corporation shall commence January 1 in each calendar year and end on December 31.
 
-Article IX - Amendments
------------------------
+Article X - Amendments
+----------------------
 
 The Bylaws of the Corporation may be amended or repealed by the Board of Directors.
