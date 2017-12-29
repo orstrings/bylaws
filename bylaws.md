@@ -1,10 +1,10 @@
-Bylaws of Baker Free Library Foundation
-=======================================
+Bylaws of Oyster River Strings Association
+==========================================
 
 Article I - Members
 -------------------
 
-Baker Free Library Foundation (the "Corporation") shall have no members.
+Oyster River Strings Association (the "Corporation") shall have no members.
 
 Article II - Board of Directors
 -------------------------------
