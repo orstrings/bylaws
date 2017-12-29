@@ -165,11 +165,11 @@ Article V - Officers
 
 ### Section 1. Number
 
-The officers of the Corporation shall be a President, one (1) or more Vice Presidents, a Treasurer, a Secretary and/or such other officers as the Board of Directors may in its discretion determine. Any two (2) or more offices may be held by the same person, except the offices of President and Secretary.
+The officers of the Corporation shall be a President, a President Elect, a Treasurer, a Secretary and/or such other officers as the Board of Directors may in its discretion determine.
 
 ### Section 2. Term of Office and Qualifications
 
-Those officers whose titles are specifically mentioned in Section 1 of this Article IV shall be elected by the Board of Directors at its Annual Meeting. Unless a shorter term is provided in the resolution of the Board electing such officers, the term of office of each officer shall extend to the next Annual Meeting and until the officers' successor is elected and qualified. The President shall be elected from among the Directors.
+Those officers whose titles are specifically mentioned in Section 1 of this Article V shall be elected by the Board of Directors at its Annual Meeting. Unless a shorter term is provided in the resolution of the Board electing such officers, the term of office of each officer shall extend to the next Annual Meeting and until the officers' successor is elected and qualified. The President shall be elected from among the Directors.  **TODO** Determine language for President Elect to President transition allowing for alternative.
 
 ### Section 3. Additional Officers
 
@@ -189,11 +189,11 @@ A vacancy in any office shall be filled by the Board of Directors.
 
 ### Section 7. President
 
-The President shall act as the chief executive officers of the Corporation and shall supervise generally the management of the affairs of the Corporation subject only to the supervision of the Board. The President shall also perform such other duties as may be assigned from time to time by the Board.
+The President shall act as the chief executive officer of the Corporation and shall supervise generally the management of the affairs of the Corporation subject only to the supervision of the Board. The President shall cast a deciding vote in the case of a tie. The President shall also perform such other duties as may be assigned from time to time by the Board.
 
-### Section 8. Vice Presidents
+### Section 8. President Elect
 
-In the absence of incapacity to act of the President, or if the office of President be vacant, the View President or, if there be more than one Vice President, the Vice Presidents in order of seniority as determined by the Board of Directors, shall preside at all meetings of the Board of Directors, and shall perform the duties and exercise the powers of the President, subject to the right of the Board from time to time to extend or confine such powers and duties or to assign them to others. Each View President shall have such powers and shall perform such other duties as may be assigned by the Board of Directors or the President.
+In the absence or incapacity to act of the President, or if the office of President be vacant, the President Elect shall preside at all meetings of the Board of Directors, and shall perform the duties and exercise the powers of the President, subject to the right of the Board from time to time to extend or confine such powers and duties or to assign them to others. The President Elect shall have such powers and shall perform such other duties as may be assigned by the Board of Directors or the President.
 
 ### Section 9. Treasurer
 
@@ -209,7 +209,7 @@ The Board of Directors may delegate to any officer or committee the power to app
 
 ### Section 12. Assignment and Transfer of Stock, Bonds and Securities
 
-The President, the Vice Presidents, the Treasurer, the Secretary, and each of them, shall have power to assign, or to endorse for transfer, under the corporate seal, and to deliver, any stock, bonds, subscription rights, or other securities, or any beneficial interest therein, held or owned by the Corporation.
+The President, the President Elect, the Treasurer, the Secretary, and each of them, shall have power to assign, or to endorse for transfer, under the corporate seal, and to deliver, any stock, bonds, subscription rights, or other securities, or any beneficial interest therein, held or owned by the Corporation.
 
 Article VI - Contracts, Checks, Drafts and Bank Accounts
 --------------------------------------------------------
