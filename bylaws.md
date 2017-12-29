@@ -15,9 +15,9 @@ The Corporation shall be managed by its board of directors (the "Board of Direct
 
 ### Section 2. Number and Term of Office
 
-(a) The Corporation shall be governed by a Board of Directors numbering not less than one (1) Director. Members of the Board of Directors shall be elected by the incumbent Directors. Each Director shall hold office until the next annual meeting of shareholders and until his successor shall have been elected and qualified.
+a. The Corporation shall be governed by a Board of Directors numbering not less than one (1) Director. Members of the Board of Directors shall be elected by the incumbent Directors. Each Director shall hold office until the next annual meeting of shareholders and until his successor shall have been elected and qualified.
 
-(b) Each Director shall have one vote.
+b. Each Director shall have one vote.
 
 ### Section 3. Organization
 
@@ -25,9 +25,9 @@ At each meeting of the Board of Directors, the President, or, in the absence of 
 
 ### Section 4. Resignations and Removal of Directors
 
-(a) Any Director of the Corporation may resign at any time by giving written notice to the President or to the Secretary. Such resignation shall take effect at the time specified therein or, if no time be specified, then on delivery.
+a. Any Director of the Corporation may resign at any time by giving written notice to the President or to the Secretary. Such resignation shall take effect at the time specified therein or, if no time be specified, then on delivery.
 
-(b) Any or all of the Directors may be removed with or without cause by vote of the Directors provided there is a quorum of not less than a majority of the entire Board of Directors present at the meeting of Directors at which such action is taken.
+b. Any or all of the Directors may be removed with or without cause by vote of the Directors provided there is a quorum of not less than a majority of the entire Board of Directors present at the meeting of Directors at which such action is taken.
 
 ### Section 5. Newly Created Directorships and Vacancies
 
@@ -35,11 +35,11 @@ Newly created Directorships resulting from an increase in the number of Director
 
 ### Section 6. Action by the Board of Directors
 
-(a) Except as otherwise provided by law or in there Bylaws, the act of the Board of Directors means action at a meeting of the Board by vote of a majority of the Directors present at the time of the vote, if a quorum is present at such time.
+a. Except as otherwise provided by law or in there Bylaws, the act of the Board of Directors means action at a meeting of the Board by vote of a majority of the Directors present at the time of the vote, if a quorum is present at such time.
 
-(b) Any action required or permitted to be taken by the Board of Directors or any committee thereof may be taken without a meeting if all members of the Board or the committee consent in writing to the adoption of a resolution authorizing the action.  The resolution and the written consents there to by the members of the Board or committee shall be filed with the minutes of the proceedings of the Board or committee.
+b. Any action required or permitted to be taken by the Board of Directors or any committee thereof may be taken without a meeting if all members of the Board or the committee consent in writing to the adoption of a resolution authorizing the action.  The resolution and the written consents there to by the members of the Board or committee shall be filed with the minutes of the proceedings of the Board or committee.
 
-\(c) Any one or more members of the Board of Directors or any committee thereof may participate in a meeting of such Board or committee by means of a telephone conference or similar communications equipment allowing all persons participating in the meeting to hear each other at the same time. Participation by such means shall constitute present in person at a meeting.
+c. Any one or more members of the Board of Directors or any committee thereof may participate in a meeting of such Board or committee by means of a telephone conference or similar communications equipment allowing all persons participating in the meeting to hear each other at the same time. Participation by such means shall constitute present in person at a meeting.
 
 ### Section 7. Place of Meeting
 
@@ -63,9 +63,9 @@ Notice of a meeting need not be given to any Director who submits a signed waive
 
 ### Section 12. Quorum
 
-(a) A majority of the entire Board of shall constitute a quorum for the transaction of business.
+a. A majority of the entire Board of shall constitute a quorum for the transaction of business.
 
-(b) A majority of the Directors present, whether or not a quorum is present, may adjourn any meeting to another time and place without notice to any Director.
+b. A majority of the Directors present, whether or not a quorum is present, may adjourn any meeting to another time and place without notice to any Director.
 
 ### Section 13. Compensation
 
@@ -82,11 +82,11 @@ There may be a Nominating Committee consisting of three (3) Directors, who shall
 
 The Board of Directors, by resolution adopted by a majority of the entire board, may designate from among its members an Executive Committee and other standing committees consisting of three (3) or more Directors. The standing committees shall have such authority as the Board shall by resolution provide; and the Executive Committee shall have all the authority of the Board, except that no such committee shall have authority as to the following matters:
 
-(a) The filling of vacancies in the Board or in any committee.
+a. The filling of vacancies in the Board or in any committee.
 
-(b) The amendment of repeal of the Bylaws, or the adoption of new Bylaws.
+b. The amendment of repeal of the Bylaws, or the adoption of new Bylaws.
 
-\(c) The amendment or repeal of any resolution of the Board which by its terms, shall not be so amendable or repealable. Any reference in these Bylaws to the Board of Directors shall include the Executive Committee unless the context or express provision otherwise indicates.
+c. The amendment or repeal of any resolution of the Board which by its terms, shall not be so amendable or repealable. Any reference in these Bylaws to the Board of Directors shall include the Executive Committee unless the context or express provision otherwise indicates.
 
 ### Section 3. Special Committees
 
