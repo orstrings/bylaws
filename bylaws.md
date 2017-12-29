@@ -297,7 +297,7 @@ No loans shall be made by the Corporation to its Directors or offices, or to any
 
 ### Section 4. Fiscal Year
 
-The fiscal year of the Corporation shall commence January 1 in each calendar year and end on December 31.
+The fiscal year of the Corporation shall commence July 1 in each calendar year and end on June 30.
 
 Article X - Amendments
 ----------------------
