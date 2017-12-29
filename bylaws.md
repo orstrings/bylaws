@@ -299,6 +299,14 @@ No loans shall be made by the Corporation to its Directors or offices, or to any
 
 The fiscal year of the Corporation shall commence July 1 in each calendar year and end on June 30.
 
+### Section 5. Authority Over String Program
+
+All decisions affecting the musical, educational, and administrative activities of the string program shall remain exclusively with the string program director(s).
+
+### Section 6. Topicality
+
+No matters will be discussed that originate outside the organization. All matters will be introduced by a Member.
+
 Article X - Amendments
 ----------------------
 
