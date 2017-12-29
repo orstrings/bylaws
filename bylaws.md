@@ -124,13 +124,9 @@ b. A majority of the Directors present, whether or not a quorum is present, may 
 Article IV - Committees
 -----------------------
 
-### Section 1. Nominating Committee
+### Section 1. Executive Committee and Other Standing Committees
 
-There may be a Nominating Committee consisting of three (3) Directors, who shall be elected by a plurality of the votes cast by the Directors of the Corporation at each Annual Meeting and shall serve until the next Annual Meeting. If in existence, the Nominating Committee shall present a slate of nominees for the Board of Directors at the next Annual Meeting following its election.
-
-### Section 2. Executive Committee and Other Standing Committees
-
-The Board of Directors, by resolution adopted by a majority of the entire board, may designate from among its members an Executive Committee and other standing committees consisting of three (3) or more Directors. The standing committees shall have such authority as the Board shall by resolution provide; and the Executive Committee shall have all the authority of the Board, except that no such committee shall have authority as to the following matters:
+The Board of Directors, by resolution adopted by a two-thirds majority of the entire board, may designate from among its members an Executive Committee and other standing committees consisting of three (3) or more Directors. The standing committees shall have such authority as the Board shall by resolution provide; and the Executive Committee shall have all the authority of the Board, except that no such committee shall have authority as to the following matters:
 
 a. The filling of vacancies in the Board or in any committee.
 
@@ -138,27 +134,31 @@ b. The amendment of repeal of the Bylaws, or the adoption of new Bylaws.
 
 c. The amendment or repeal of any resolution of the Board which by its terms, shall not be so amendable or repealable. Any reference in these Bylaws to the Board of Directors shall include the Executive Committee unless the context or express provision otherwise indicates.
 
-### Section 3. Special Committees
+Absent a designation of an Executive Committee by resolution of the Board, all officers of the Corporation shall constitute the membership of the Executive Committee.
 
-The Board of Directors may designate special committees, each of which shall consist of such persons and shall consist of such persons and shall have such authority as is provided in the resolution designating the committee, except that such authority shall not exceed the authority conferred on the Executive Committee by Section 2 of this Article III.
+The string program director(s) shall serve as ex-officio member(s) of the Executive Committee.
 
-### Section 4. Meetings
+### Section 2. Special Committees
 
-Meeting of committees, of which no notice shall be necessary, shall be held at such time and place as shall be fixed by the President of the Corporation of the chairman of the committee or by vote of a majority of all of the members of the committee.
+The Board of Directors, by two-thirds majority of the entire board, may designate special committees, each of which shall consist of such persons and shall have such authority as is provided in the resolution designating the committee, except that such authority shall not exceed the authority conferred on the Executive Committee by Section 1 of this Article VI.
 
-### Section 5. Quorum and Manner of Acting
+### Section 3. Meetings
+
+Meeting of committees, of which no notice shall be necessary, shall be held at such time and place as shall be fixed by the President of the Corporation or the chairman of the committee or by vote of a majority of all of the members of the committee.
+
+### Section 4. Quorum and Manner of Acting
 
 Unless otherwise provided by resolution of the Board of Directors, a majority of all of the members of a committee shall constitute a quorum for the transaction of business and the vote of a majority of all of the members of the committee shall be the act of the committee.
 
 The procedures and manner of acting of the Executive Committee and of the committees of the Board shall be subject at all times to the directions of the Board of Directors.
 
-### Section 6. Tenure of Members of Committees of the Board
+### Section 5. Tenure of Members of Committees of the Board
 
 Each committee of the Board and every member thereof shall serve at the pleasure of the Board.
 
-### Section 7. Alternate Members
+### Section 6. Alternate Members
 
-The Board of Directors my designate one (1) of more Directors as alternate members of the Executive Committee or of any standing committee of the Board, who may replace any absent member or members at any meeting of such committee.
+The Board of Directors my designate one (1) or more Directors as alternate members of the Executive Committee or of any standing committee of the Board, who may replace any absent member or members at any meeting of such committee.
 
 Article V - Officers
 --------------------
