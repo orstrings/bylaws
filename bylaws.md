@@ -4,7 +4,37 @@ Bylaws of Oyster River Strings Association
 Article I - Members
 -------------------
 
-Oyster River Strings Association (the "Corporation") shall have no members.
+### Section 1. Regular Members
+
+a. Oyster River Strings Association (the "Corporation") members shall be all parents and legal guardians of the students in the string program (the "Regular Members" or "Members").
+
+b. Membership of Regular Members shall expire when s/he no longer has a student in the string program.
+
+c. The string program director(s) shall be a Regular Member of the organization.
+
+### Section 2. Associate Members
+
+a. Associate membership (the "Associate Members") may be extended to interested community members by a majority vote of the Board of Directors.
+
+b. Associate Members shall have all the privileges of Regular Members.
+
+c. Associate Memberships shall expire after two years.
+
+d. Individuals interested in associate membership must submit a brief written petition to the President stating his/her reasons for wishing to join.
+
+### Section 2. Voting
+
+Each Member shall have one vote on any matter under consideration by the full membership at a meeting of the membership.
+
+### Section 3. Removal
+
+The Board of Directors, by affirmative vote of two-thirds of all the Directors, may expel a member for cause after an appropriate hearing.
+
+### Section 4. Dues, Fees, and Donations
+
+a. Members shall not be required to pay a membership fee.
+
+b. Members shall not be required to make donations of any kind, financial or otherwise.
 
 Article II - Board of Directors
 -------------------------------
