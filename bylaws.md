@@ -4,52 +4,88 @@ Bylaws of Oyster River Strings Association
 Article I - Members
 -------------------
 
-### Section 1. Regular Members
+### Section 1. Members Authorized
 
-a. Oyster River Strings Association (the "Corporation") members shall be all parents and legal guardians of the students in the string program (the "Regular Members" or "Members").
+The Corporation shall have two (2) classes of members:  Director Members and Regular Members.
 
-b. Membership of Regular Members shall expire when s/he no longer has a student in the string program.
+a. Director Members shall consist of the members of the Board of Directors for so long as they serve as such.  Director Members shall have all voting rights allowed to members under the law.
 
-c. The string program director(s) shall be a Regular Member of the organization.
+b. Regular Members shall consist of the parents or legal guardians of children registered to participate in the string instrument program of the Oyster River Cooperative School District ("String Program"), the director(s) of the String Program and upon the vote of the Board of Directors, any other individual who has explained in writing his or her desire to become a Regular Member (an "Associate Member").  There shall be a limit of one (1) Regular Member per family, regardless of the number of children participating in the String Program.  Regular Members shall have the right to elect and remove the Corporation’s Directors and Officers.  Regular Membership shall terminate automatically (i) if the child withdraws from the String Program, (ii) if the director of the String Program ceases to serve in this position, (iii) after two years with respect to any Associate Member, or (iv) upon a two-thirds (2/3) vote of the Regular Members in attendance at a meeting, with or without cause.
 
-### Section 2. Associate Members
+c. Neither Director Members nor Regular Members shall be required to pay dues or make donations to the Corporation.
 
-a. Associate membership (the "Associate Members") may be extended to interested community members by a majority vote of the Board of Directors.
+### Section 2. Annual Meetings
 
-b. Associate Members shall have all the privileges of Regular Members.
+a. A meeting of Regular Members shall be held for the election of the Corporation’s Directors and Officers, and the transaction of other business in September of each year on any day in that month as determined by the Board of Directors.
 
-c. Associate Memberships shall expire after two years.
+b. The Board of Directors shall present at the Annual Meeting of members a report verified by the President and Treasurer or by a majority of the Directors, showing in appropriate detail the following:
 
-d. Individuals interested in associate membership must submit a brief written petition to the President stating his/her reasons for wishing to join.
+    i.   the assets and liabilities, including the trust funds, of the Corporation;
+    ii.  the principal changes in assets and liabilities, including trust funds;
+    iii. the revenue or receipts of the Corporation, both unrestricted and restricted to particular purposes;
+    iv.  the expenses or disbursements of the Corporation for both general and restricted purposes; and
+    v.   the number of members of the Corporation as of the date of the report, together with a statement of increase or decrease in such number and a statement of the place where the names and places of residence of the current members may be found.
 
-### Section 2. Voting
+The Annual Report needs to provide the above information as of the end of the twelvemonth fiscal period terminating not more than six months prior to the meeting at which the Annual Report is presented.  The Annual Report shall be filed with the records of the Corporation and a copy included in the minutes of the Annual Meeting.
 
-Each Member shall have one vote on any matter under consideration by the full membership at a meeting of the membership.
+### Section 3. Special Meetings
 
-### Section 3. Removal
+Special meetings of the Regular Members entitled to vote at a meeting may be called at any time by the President, the Board of Directors, or members entitled to cast ten (10%) percent of the total number of votes entitled to be cast at such a meeting.  The request may specify a date for the meeting that is not less than two (2) months from the date the request is delivered to the Secretary.  The Secretary shall send out notice of a special meeting within five (5) business days after receipt of the request.
 
-The Board of Directors, by affirmative vote of two-thirds of all the Directors, may expel a member for cause after an appropriate hearing.
+Notice of a Special Meeting shall be provided as set forth in Section 6 below, but shall also state (a) whether the meeting is being called by the Board of Directors or upon request of members pursuant to this section; and (b) the purpose of purposes for which it is being called.  No business shall be conducted at the special meeting that is not included in such notice.
 
-### Section 4. Dues, Fees, and Donations
+### Section 4. Place of Meetings
 
-a. Members shall not be required to pay a membership fee.
+Meetings of members shall be held in or near the towns of Durham, Lee, and Madbury, New Hampshire, as may be fixed by the Board of Directors.
 
-b. Members shall not be required to make donations of any kind, financial or otherwise.
+### Section 5. Notice of Meetings
+
+a. Written notice shall be given of each meeting of Regular Members, shall state the place, date and hour of the meeting, and, unless it is an Annual Meeting, shall also indicate that it is being issued by or at the direction of the person or persons calling the meeting.  Notice of a Special Meeting shall also state the purpose or purposes for which it is being called.
+
+b. A copy of the notice of any meeting of Regular Members shall be given in a manner determined in good faith by the President not less than ten (10) nor more than fifty (50) days before the date of the meeting, to each Regular Members entitled to vote at such meeting.  Such manner of delivery may include, without limitation, inclusion of such notice in a newsletter, mailing, email, facsimile, text message, or other publication intended for the parents or legal guardians of students in the Oyster River Cooperative School District.
+
+c. Notice of meeting need not be given to any member who submits a signed waiver of notice, in person or by proxy, whether before or after the meeting.  The attendance of any member at a meeting in person or by proxy, without protesting prior to the conclusion of the meeting the lack of notice of such meeting, shall constitute a waiver of notice by him.  Waivers may be provided: (i) in a writing signed by member or the member’s proxy either in hard copy or by affixing a signature by any reasonable means (e.g., fax signature); or (ii) by e-mail that includes information from which the recipient can reasonably determine that the transmission was authorized by the individual submitting the waiver.
+
+### Section 6. Qualifications of Voters
+
+a. Each the Regular Members of record of the Corporation, in good standing, shall be entitled to one vote on matters on which the member is entitled to vote.
+
+b. The Board may fix a date as the record date for the purpose of determining the Regular Members entitled to vote at any meeting of Regular Members or any adjournment thereof, or to express consent to or dissent from any proposal without a meeting.
+
+### Section 7. Quorum and Adjourned Meetings
+
+a. Five (5) Regular Members in attendance a meeting of Regular Members shall constitute a quorum for the transaction of any business.  When a quorum is once present to organize a meeting, it is not broken by the subsequent withdrawal of any Regular Members.
+
+b. Despite the absence of a quorum, the Regular Members present may adjourn the meeting to another time and place and it shall not be necessary to give notice of the adjourned meeting if the time and place to which the meeting is adjourned are announced at the meeting at which the adjournment is taken.  If a quorum is present at the adjourned meeting, any business may be transacted that might have been transacted on the original date of the meeting.  If after the adjournment, however, the Board of Directors fixes a new record date for determining the Regular Members entitled to vote at the adjourned meeting, a notice of the adjourned meeting shall be given to each member then entitled to notice under Section 3 of this Article.
+
+### Section 8. Organization
+
+At every meeting of the Regular Members the President, or in the absence of the President, the President Elect, or in the absence of such officers, a person selected by the meeting, shall act as chairman of the meeting.  The Secretary or, in the absence of the Secretary, any Assistant Secretary, shall act as secretary of the meeting, and in the absence of both the Secretary and any Assistant Secretary, any person selected by the meeting shall act as secretary of the meeting.
+
+### Section 9. Voting
+
+Whenever any corporate action, other than the election of Directors, is to be taken by vote of the Regular Members, it shall, except as otherwise required by law or by these Bylaws, be authorized by an affirmative vote of a majority the Regular Members present at such meeting.  Directors shall be elected by a plurality of the votes cast at a meeting of Regular Members except as otherwise required by law.
+
+### Section 10. Proxies
+
+a. No proxies shall be allowed.
+
+### Section 11. Topicality
+
+No matters will be discussed that originate outside the organization. All matters will be introduced by a Member.
 
 Article II - Board of Directors
 -------------------------------
 
 ### Section 1. Power of Board and Qualification of Directors
 
-a. The Corporation shall be managed by its board of directors (the "Board of Directors" or the "Board", and each member of the Board, a "Director").
+a. The Corporation shall be managed by its board of directors (the "Board of Directors" or the "Board", and each member of the Board, a "Director").  Each Director shall be a Regular Member or an Associate Member. Each Director shall be at least eighteen years of age.
 
-b. Each Director shall be a Regular Member or Associate Member in good standing.
-
-c. Each Director shall be at least eighteen years of age.
+b. All decisions affecting the musical, educational, and administrative activities of the string program shall remain exclusively with the director(s) of the String Program.
 
 ### Section 2. Number and Term of Office
 
-a. The Corporation shall be governed by a Board of Directors numbering not less than one (1) Directors.  The Board of Directors shall be elected by majority vote of the Members at the annual all-members Meeting. Each Director shall hold office until the next annual all-members meeting at which the election of Directors is in the regular order of business and until their successors shall have been elected and qualified.
+a. The Corporation shall be governed by a Board of Directors numbering not less than five (5) Directors who are not of the same immediate family or related by blood or marriage.  The Board of Directors shall be elected at the annual All-Member Meeting or any special meeting called for such purpose. Each Director shall hold office until the next annual meeting at which the election of Directors is in the regular order of business and until their successors shall have been elected and qualified.  Each director of the String Program shall be an ex-officio non-voting member of the Board of Directors.
 
 b. Each Director shall have one vote.
 
@@ -65,7 +101,7 @@ b. Any or all of the Directors may be removed with or without cause by two-third
 
 ### Section 5. Newly Created Directorships and Vacancies
 
-Newly created Directorships resulting from an increase in the number of Directors and vacancies occurring in the Board of Directors for any reason shall be filled by vote of a majority of Directors then in office, regardless of their number. Directors elected to fill newly created directorships shall hold office in accordance with the classification (if Directors are classified) and until their successors have been elected and qualified.
+Newly created Directorships resulting from an increase in the number of Directors and vacancies occurring in the Board of Directors for any reason shall be filled by vote of a majority of Directors then in office, regardless of their number. Directors elected to fill newly created directorships shall hold office until their successors have been elected and qualified. Directors elected to fill vacancies shall serve until the next annual meeting at which the election of Directors is in the regular order of business and until their successors are elected and qualified.
 
 ### Section 6. Action by the Board of Directors
 
@@ -75,41 +111,21 @@ b. Any action required or permitted to be taken by the Board of Directors or any
 
 c. Any one or more members of the Board of Directors or any committee thereof may participate in a meeting of such Board or committee by means of a telephone conference or similar communications equipment allowing all persons participating in the meeting to hear each other at the same time. Participation by such means shall constitute present in person at a meeting.
 
-### Section 7. Compensation
+### Section 7. Place of Meeting
 
-Directors shall receive no compensation for their services but may be reimbursed for the expenses reasonably incurred by them in the performance of their duties.
+The Board of Directors may hold its meetings held in or near the towns of Durham, Lee, and Madbury, New Hampshire, as the Board of Directors may from time to time determine.
 
-Article III - Meetings
-----------------------
+### Section 8. Annual Meetings
 
-### Section 1. Annual All-Member Meeting
+As soon as practical after each annual election of Directors, the Board of Directors shall meet for the purpose of organization and the transaction of other business.  Notice of such meeting need not be given.  Such first meeting may be held at any other time; and if it is held at another time, notice shall be given as hereinafter provided for special meetings of the Board of Directors.
 
-a. A meeting for all Members (the "All-Member Meeting") shall be held at least once each academic year. The All-Member Meeting shall be scheduled with the input and consent of the string program director(s).
+### Section 9. Regular Meetings
 
-b. Directors shall be elected by the Members at the All-Member meeting.  Should an All-Member Meeting be impossible to organize, elections may be held via paper ballots or electronic means.
+Regular meetings of the Board of Directors shall be held not less than three (3) times per academic year and may be held without notice at such times as may be fixed from time to time by resolution of the Board of Directors.
 
-c. The assembled Members at an All-Member Meeting shall constitute a quorum.
+### Section 10. Special Meetings
 
-### Section 2. Annual Meetings
-
-As soon as practical after each annual election of Directors, the Board of Directors shall meet for the purpose of organization and the transaction of other business. Notice of such meeting need not be given. Such first meeting may be held at any other time; and if it is held at another time, notice shall be given as hereinafter provided for special meetings of the Board of Directors.
-
-### Section 3. Regular Meetings
-
-a. Regular meetings of the Board of Directors may be held without notice at such times as may be fixed from time to time by resolution of the Board of Directors.
-b. Regular meetings shall be held when necessary, but not less than 3 times per academic year.
-
-### Section 4. Special Meetings
-
-a. Special meetings of the Board of Directors shall be held whenever called by the President, or by a majority of Directors who may call special meetings of the Directors.
-
-b. Notice shall be given orally, by telephone, telefax, e-mail, or mail and shall state the purposes, time and place of the meeting. If notice is given orally, in person or by telephone, it shall be given not less than one day before the meeting; if it is given by telefax, e-mail or mail, it shall be given not less than three days before the meeting.
-
-c. Business transacted at all special meetings shall be confined to the objects stated in the call and matters germane thereto.
-
-### Section 5. Place of Meeting
-
-The Board of Directors may hold its meetings at the principal office of the Corporation, or at such place or places within or without the State of New Hampshire as the Board of Directors may from time to time by resolution determine.
+Special meetings of the Board of Directors shall be held whenever called by the President, or by at least one (1) Director who may call special meetings of the Directors.  Notice shall be given orally, by telephone, telefax, e-mail, or mail and shall state the purposes, time and place of the meeting.  Such notice shall also state the purpose of purposes for which it is being called.  No business shall be conducted at the special meeting that is not included in such notice.
 
 ### Section 11. Waivers of Notice
 
@@ -117,34 +133,34 @@ Notice of a meeting need not be given to any Director who submits a signed waive
 
 ### Section 12. Quorum
 
-a. A two-thirds majority of the entire Board of shall constitute a quorum for the transaction of business.
+a. A two-thirds (2/3) of the Directors present shall constitute a quorum for the transaction of business.
 
 b. A majority of the Directors present, whether or not a quorum is present, may adjourn any meeting to another time and place without notice to any Director.
 
-Article IV - Committees
------------------------
+### Section 13. Compensation
+
+Directors shall receive no compensation for their services but may be reimbursed for the expenses reasonably incurred by them in the performance of their duties.
+
+Article III - Committees
+------------------------
 
 ### Section 1. Executive Committee and Other Standing Committees
 
-The Board of Directors, by resolution adopted by a two-thirds majority of the entire board, may designate from among its members an Executive Committee and other standing committees consisting of three (3) or more Directors. The standing committees shall have such authority as the Board shall by resolution provide; and the Executive Committee shall have all the authority of the Board, except that no such committee shall have authority as to the following matters:
+The Board of Directors, by resolution adopted by a two-thirds majority of the entire Board, may designate from among its members an Executive Committee and other standing committees consisting of three (3) or more Directors. The standing committees shall have such authority as the Board shall by resolution provide; and the Executive Committee shall have all the authority of the Board, except that no such committee shall have authority as to the following matters:
 
 a. The filling of vacancies in the Board or in any committee.
 
-b. The amendment of repeal of the Bylaws, or the adoption of new Bylaws.
+b. The amendment or repeal of the Bylaws, or the adoption of new Bylaws.
 
 c. The amendment or repeal of any resolution of the Board which by its terms, shall not be so amendable or repealable. Any reference in these Bylaws to the Board of Directors shall include the Executive Committee unless the context or express provision otherwise indicates.
 
-Absent a designation of an Executive Committee by resolution of the Board, all officers of the Corporation shall constitute the membership of the Executive Committee.
-
-The string program director(s) shall serve as ex-officio member(s) of the Executive Committee.
-
 ### Section 2. Special Committees
 
-The Board of Directors, by two-thirds majority of the entire board, may designate special committees, each of which shall consist of such persons and shall have such authority as is provided in the resolution designating the committee, except that such authority shall not exceed the authority conferred on the Executive Committee by Section 1 of this Article VI.
+The Board of Directors, by two-thirds majority of the entire board, may designate special committees, each of which shall consist of such persons and shall have such authority as is provided in the resolution designating the committee, except that such authority shall not exceed the authority conferred on the Executive Committee by Section 1 of this Article III.
 
 ### Section 3. Meetings
 
-Meeting of committees, of which no notice shall be necessary, shall be held at such time and place as shall be fixed by the President of the Corporation or the chairman of the committee or by vote of a majority of all of the members of the committee.
+Meetings of committees, of which no notice shall be necessary, shall be held at such time and place as shall be fixed by the President of the Corporation or the chairman of the committee or by vote of a majority of all of the members of the committee.
 
 ### Section 4. Quorum and Manner of Acting
 
@@ -158,10 +174,10 @@ Each committee of the Board and every member thereof shall serve at the pleasure
 
 ### Section 6. Alternate Members
 
-The Board of Directors my designate one (1) or more Directors as alternate members of the Executive Committee or of any standing committee of the Board, who may replace any absent member or members at any meeting of such committee.
+The Board of Directors may designate one (1) or more Directors as alternate members of the Executive Committee or of any standing committee of the Board, who may replace any absent member or members at any meeting of such committee.
 
-Article V - Officers
---------------------
+Article IV - Officers
+---------------------
 
 ### Section 1. Number
 
@@ -169,7 +185,7 @@ The officers of the Corporation shall be a President, a President Elect, a Treas
 
 ### Section 2. Term of Office and Qualifications
 
-Those officers whose titles are specifically mentioned in Section 1 of this Article V shall be elected by the Board of Directors at its Annual Meeting. Unless a shorter term is provided in the resolution of the Board electing such officers, the term of office of each officer shall extend to the next Annual Meeting and until the officers' successor is elected and qualified. The President shall be elected from among the Directors.  **TODO** Determine language for President Elect to President transition allowing for alternative.
+Those officers whose titles are specifically mentioned in Section 1 of this Article IV shall be elected by the Board of Directors at its Annual Meeting. Unless a shorter term is provided in the resolution of the Board electing such officers, the term of office of each officer shall extend to the next Annual Meeting and until the officer's successor is elected and qualified.
 
 ### Section 3. Additional Officers
 
@@ -177,11 +193,11 @@ Additional officers may be elected for such period, have such authority and perf
 
 ### Section 4. Removal of Officers
 
-Any officer may be removed by the Board of Directors with or without cause at any time.
+Any officer may be removed by the Board of Directors with or without cause at any time
 
 ### Section 5. Resignation
 
-Any officer may resign at any time by giving written notice to the Board of Directors, to the President or to the Secretary. Any such resignation shall take effect at the time specified therein, or, if not time be specified, then upon delivery.
+Any officer may resign at any time by giving written notice to the Board of Directors, to the President or to the Secretary. Any such resignation shall take effect at the time specified therein, or, if no time be specified, then upon delivery.
 
 ### Section 6. Vacancies
 
@@ -189,34 +205,34 @@ A vacancy in any office shall be filled by the Board of Directors.
 
 ### Section 7. President
 
-The President shall act as the chief executive officer of the Corporation and shall supervise generally the management of the affairs of the Corporation subject only to the supervision of the Board. The President shall cast a deciding vote in the case of a tie. The President shall also perform such other duties as may be assigned from time to time by the Board.
+The President shall act as the chief executive officer of the Corporation and shall supervise generally the management of the affairs of the Corporation subject only to the supervision of the Board. The President shall cast a deciding vote in the case of a tie. The President shall also perform such other duties as may be assigned from time to time by the Board. The President shall serve for one year, starting with the Annual Meeting at which such President is elected, and terminating at the next such Annual Meeting, at which point the President Elect for the prior year shall become President, unless otherwise determined by the Directors. 
 
 ### Section 8. President Elect
 
-In the absence or incapacity to act of the President, or if the office of President be vacant, the President Elect shall preside at all meetings of the Board of Directors, and shall perform the duties and exercise the powers of the President, subject to the right of the Board from time to time to extend or confine such powers and duties or to assign them to others. The President Elect shall have such powers and shall perform such other duties as may be assigned by the Board of Directors or the President.
+In the absence or incapacity to act of the President, or if the office of President be vacant, the President Elect shall preside at all meetings of the Board of Directors, and shall perform the duties and exercise the powers of the President, subject to the right of the Board from time to time to extend or confine such powers and duties or to assign them to others. The President Elect shall serve for one year, starting with the Annual Meeting at which such President Elect is elected, and terminating at the next such Annual Meeting, at which point the President Elect shall become President, unless otherwise determined by the Directors. The President Elect shall have such powers and shall perform such other duties as may be assigned by the Board of Directors or the President. 
 
 ### Section 9. Treasurer
 
-The Treasurer shall, if required by the Board of Directors, obtain a bond for the faithful discharge of his duties, in such sum and with such sureties as the Board of Directors shall require. The Treasurer shall keep and maintain the books of account and shall change and custody of, and be responsible for, all funds and securities of the Corporation, and shall deposit all such funds in the name of and to the credit of the Corporation in such banks, trust companies, or other depositories as shall be selected by the Board of Directors. The Treasurer shall also perform all other duties customarily incident to the office Treasurer and such other duties as from time to time may be assigned by the Board of Directors.
+The Treasurer shall, if required by the Board of Directors, obtain a bond for the faithful discharge of his duties, in such sum and with such sureties as the Board of Directors shall require. The Treasurer shall keep and maintain the books of account and shall have charge and custody of, and be responsible for, all funds and securities of the Corporation, and shall deposit all such funds in the name of and to the credit of the Corporation in such banks, trust companies, or other depositories as shall be selected by the Board of Directors. The Treasurer shall also perform all other duties customarily incident to the office of Treasurer and such other duties as from time to time may be assigned by the Board of Directors.
 
 ### Section 10. Secretary
 
-It shall be the duty of the Secretary to act as secretary of all meetings of the Board of Directors, and to keep the minutes of all such meetings in a proper book or books to be provided for that purpose; the Secretary shall see that all notices required to be given by the Corporation are duly given and server; the Secretary shall keep a current list of the Corporation's Directors and officers and the residence addresses; the Secretary shall be custodian of the seal of the Corporation and shall affix the seal, or cause it to be affixed, to all agreements, documents and other papers requiring the same. The Secretary shall have custody of the minute book containing the minutes of all meetings of directors, the Executive Committee, and any other committees which may keep minutes, and of all other contracts and documents which are not in the custody of the Treasurer of the Corporation, or in the custody of some other person authorized by the Board of Directors to have such custody.
+It shall be the duty of the Secretary to act as secretary of all meetings of the Board of Directors, and to keep the minutes of all such meetings in a proper book or books to be provided for that purpose; the Secretary shall see that all notices required to be given by the Corporation are duly given and served; the Secretary shall keep a current list of the Corporation's Directors and officers and their residence addresses; the Secretary shall be custodian of the seal of the Corporation and shall affix the seal, or cause it to be affixed, to all agreements, documents and other papers requiring the same. The Secretary shall have custody of the minute book containing the minutes of all meetings of directors, the Executive Committee, and any other committees which may keep minutes, and of all other contracts and documents which are not in the custody of the Treasurer of the Corporation, or in the custody of some other person authorized by the Board of Directors to have such custody.
 
 ### Section 11. Appointed Officers
 
-The Board of Directors may delegate to any officer or committee the power to appoint and to remove any subordinate officers, agent or employee.
+The Board of Directors may delegate to any officer or committee the power to appoint and to remove any subordinate officer, agent or employee.
 
-### Section 12. Assignment and Transfer of Stock, Bonds and Securities
+### Section 12. Assignment and Transfer of Stocks, Bonds and Securities
 
 The President, the President Elect, the Treasurer, the Secretary, and each of them, shall have power to assign, or to endorse for transfer, under the corporate seal, and to deliver, any stock, bonds, subscription rights, or other securities, or any beneficial interest therein, held or owned by the Corporation.
 
-Article VI - Contracts, Checks, Drafts and Bank Accounts
+Article V - Contracts, Checks, Drafts and Bank Accounts
 --------------------------------------------------------
 
 ### Section 1. Execution of Contracts
 
-The Board of Directors, except as in these Bylaws otherwise provided, may authorize any officer or officers, agent or agents, in the name of and on behalf of the Corporation to enter into any contract or execute and deliver any instrument, and such authority may be general of confined to specific instances; but, unless so authorized by the Board of Directors, or expressly authorized by these Bylaws, no officers, agent or employee shall have any power or authority to bind the Corporation by any contract or engagement or to pledge its credit or to render it liable pecuniarily in any amount for any purpose.
+The Board of Directors, except as otherwise provided in these Bylaws, may authorize any officer or officers, agent or agents, in the name of and on behalf of the Corporation to enter into any contract or execute and deliver any instrument, and such authority may be general or confined to specific instances; but, unless so authorized by the Board of Directors, or expressly authorized by these Bylaws, no officers, agent or employee shall have any power or authority to bind the Corporation by any contract or engagement or to pledge its credit or to render it liable pecuniarily in any amount for any purpose.
 
 ### Section 2. Loans
 
@@ -235,38 +251,38 @@ Article VII - Indemnification and Insurance
 
 ### Section 1. Authorized Indemnification
 
-Unless clearly prohibited by law or Section 2 of this Article VI, the Corporation shall indemnify any person ("Indemnified Person") made, or threatened to be made, a party in any action or proceeding, whether civil, criminal, administrative, investigative or otherwise, including any action by or in the right of the Corporation, by reason of the fact that he or she (or his or her testator in intestate), whether before or after adoption of this Section, (a) is or was a Director of officers of the Corporation, or (b) in addition is serving or served, in any capacity, as the request of the Corporation, as a Director or officers of any other Corporation, or any partnership, joint venture, trust, employee benefit plan or other enterprise. The indemnification shall be against all judgements, fines, penalties, amounts paid in settlement (provided the Corporation shall have consented to such settlement) and reasonable expenses, including attorneys' fees and costs of investigation, incurred by an Indemnified Person with respect to any such threatened or actual action or proceeding, any any appeal thereof.
+Unless clearly prohibited by law or Section 2 of this Article VI, the Corporation shall indemnify any person ("Indemnified Person") made, or threatened to be made, a party in any action or proceeding, whether civil, criminal, administrative, investigative or otherwise, including any action by or in the right of the Corporation, by reason of the fact that he or she (or his or her testator in intestate), whether before or after adoption of this Section, (a) is or was a Director or officer of the Corporation, or (b) in addition is serving or served, in any capacity, at the request of the Corporation, as a Director or officer of any other Corporation, or any partnership, joint venture, trust, employee benefit plan or other enterprise. The indemnification shall be against all judgements, fines, penalties, amounts paid in settlement (provided the Corporation shall have consented to such settlement) and reasonable expenses, including attorneys' fees and costs of investigation, incurred by an Indemnified Person with respect to any such threatened or actual action or proceeding, and any appeal thereof.
 
 ### Section 2. Prohibited Indemnification
 
-The Corporation shall not indemnify any person if a judgement or other final adjudication adverse to the Indemnified Person (or to the person whose actions are the basis for the action or proceeding) establishes, or the Board of Directors in good faith determines, that such person's acts were committed in bad faith or were the result of active and deliberate dishonesty or gross negligence and were material to the cause of action so adjudicated or that the or she personally gained in fact a financial profit or other advantage to which he or she was not legally entitled.
+The Corporation shall not indemnify any person if a judgement or other final adjudication adverse to the Indemnified Person (or to the person whose actions are the basis for the action or proceeding) establishes, or the Board of Directors in good faith determines, that such person's acts were committed in bad faith or were the result of active and deliberate dishonesty or gross negligence and were material to the cause of action so adjudicated or that he or she personally gained in fact a financial profit or other advantage to which he or she was not legally entitled.
 
 ### Section 3. Advancement of Expenses
 
-The Corporation shall, on request of any Indemnified Person who is or may be entitled to be indemnified by the Corporation, pay or promptly reimburse the Indemnified Person's reasonably incurred expenses in connection with a threatened or action action or proceeding prior to its final disposition. However, no such advancement of expenses shall be made unless the Indemnified Person makes a binding, written commitment to repay the Corporation, with interest, for any amount advanced for which it is ultimately determined that he or she is not entitled to be indemnified under the law or Section 2 of this Article VI. An Indemnified Person shall cooperate in good faith with any request by the Corporation that common legal counsel be used by the parties to such action or proceeding who are similarly situated unless it would be inappropriate to do so because of actual or potential conflicts between the interests of the parties.
+The Corporation shall, on request of any Indemnified Person who is or may be entitled to be indemnified by the Corporation, pay or promptly reimburse the Indemnified Person's reasonably incurred expenses in connection with a threatened or actual action or proceeding prior to its final disposition. However, no such advancement of expenses shall be made unless the Indemnified Person makes a binding, written commitment to repay the Corporation, with interest, for any amount advanced for which it is ultimately determined that he or she is not entitled to be indemnified under the law or Section 2 of this Article VII. An Indemnified Person shall cooperate in good faith with any request by the Corporation that common legal counsel be used by the parties to such action or proceeding who are similarly situated unless it would be inappropriate to do so because of actual or potential conflicts between the interests of the parties.
 
 ### Section 4. Indemnification of Others
 
-Unless clearly prohibited by law or Section 2 of this Article VI, the Board of Directors may approve Corporation indemnification as set forth in Section 1of this Article VI or advancement of expenses as set forth in Section 3 of this Article VI, to a person (or the testator of intestate of a person) who is or was employed by the Corporation or who is or was a volunteer for the Corporation, and who is made, or threatened to be made, a party in any action or proceeding, by reason of the fact of such employment or volunteer activity, including action undertaken in connection with service at the request of the Corporation in any capacity for any other Corporation, partnership, joint venture, trust, employee benefit plan or other enterprise.
+Unless clearly prohibited by law or Section 2 of this Article VII, the Board of Directors may approve Corporation indemnification as set forth in Section 1of this Article VII or advancement of expenses as set forth in Section 3 of this Article VII, to a person (or the testator of intestate of a person) who is or was employed by the Corporation or who is or was a volunteer for the Corporation, and who is made, or threatened to be made, a party in any action or proceeding, by reason of the fact of such employment or volunteer activity, including action undertaken in connection with service at the request of the Corporation in any capacity for any other Corporation, partnership, joint venture, trust, employee benefit plan or other enterprise.
 
 ### Section 5. Determination of Indemnification
 
-Indemnification mandated by a final order of a court of competent jurisdiction will be paid. After termination of disposition of any actual or threatened action or proceeding against an Indemnified Person, of indemnification has not been ordered by a court the Board of Directors shall, upon written request by the Indemnified Person, determine whether and to what extent indemnification is permitted persuant to these Bylaws.
+Indemnification mandated by a final order of a court of competent jurisdiction will be paid. After termination or disposition of any actual or threatened action or proceeding against an Indemnified Person, if indemnification has not been ordered by a court, the Board of Directors shall, upon written request by the Indemnified Person, determine whether and to what extent indemnification is permitted pursuant to these Bylaws. Before indemnification can occur, the Board of Directors must find that such indemnification will not violate the provisions of Section 2 of this Article VI. No Director with a personal interest in the outcome, or who is a party to such actual or threatened action or proceeding concerning which indemnification is sought, shall participate in this determination. If a quorum of disinterested Directors is not obtainable, the Board of Directors shall act only after receiving the opinion in writing of independent legal counsel that indemnification is proper in the circumstances under then applicable law and these Bylaws.
 
 ### Section 6. Binding Effect
 
-Any person entitled to indemnification under these Bylaws has a legally enforceable right to indemnification which cannot be abridged by amendment of these Bylaws which respect to any event, action or mission occurring prior to the date of such amendment.
+Any person entitled to indemnification under these Bylaws has a legally enforceable right to indemnification which cannot be abridged by amendment of these Bylaws with respect to any event, action or omission occurring prior to the date of such amendment.
 
 ### Section 7. Insurance
 
-The Corporation is not required to purchase Directors' and officers' liability insurance, but the Corporation may purchase such insurance if authorized and approved by the Board of Directors. To the extend permitted by law, such insurance may insure the Corporation for any obligation it incurs as a result of this Article VI or operation of law and it may insure directly the Directors, officers, employees or volunteers of the Corporation for liabilities against which they are not entitled to indemnifications under this Article VI as well as for liabilities against which they are entitled or permitted to be indemnified by the Corporation.
+The Corporation is not required to purchase Directors' and officers' liability insurance, but the Corporation may purchase such insurance if authorized and approved by the Board of Directors. To the extent permitted by law, such insurance may insure the Corporation for any obligation it incurs as a result of this Article VI or operation of law and it may insure directly the Directors, officers, employees or volunteers of the Corporation for liabilities against which they are not entitled to indemnification under this Article VI as well as for liabilities against which they are entitled or permitted to be indemnified by the Corporation.
 
 ### Section 8. Nonexclusive Rights
 
-The provisions of this Article VI shall not limit or exclude any other rights to which any person may be entitled under law or contract. The Board of Directors is authorized to enter into agreements on behalf of the Corporation with any Director, officers, employee or volunteer providing them rights to indemnification or advancement of expenses in connection with potential indemnification in addition to the provisions therefore in this Article VI, subject in all cases to the limitations of Section 2 of this Article VI.
+The provisions of this Article VII shall not limit or exclude any other rights to which any person may be entitled under law or contract. The Board of Directors is authorized to enter into agreements on behalf of the Corporation with any Director, officer, employee or volunteer providing them rights to indemnification or advancement of expenses in connection with potential indemnification in addition to the provisions therefore in this Article VII, subject in all cases to the limitations of Section 2 of this Article VII.
 
-Article VIII - Compensation
----------------------------
+Article VII - Compensation
+--------------------------
 
 ### Section 1. Reasonable Compensation
 
@@ -280,8 +296,8 @@ Before approving the compensation of an officer, the Board shall determine that 
 
 The Board shall set forth the basis for its decisions with respect to compensation in the minutes of the meeting at which the decisions are made, including the conclusions of this evaluation and the basis for determining that the individual's compensation was reasonable in light of the evaluation and the comparability data.
 
-Article IX - General
---------------------
+Article VIII - General
+----------------------
 
 ### Section 1. Office
 
@@ -297,17 +313,9 @@ No loans shall be made by the Corporation to its Directors or offices, or to any
 
 ### Section 4. Fiscal Year
 
-The fiscal year of the Corporation shall commence July 1 in each calendar year and end on June 30.
+The fiscal year of the Corporation shall commence July 1 in each calendar year and end on June 30.  The fiscal year for tax purposes shall be determined in accordance with the rules of the Internal Revenue Service.
 
-### Section 5. Authority Over String Program
-
-All decisions affecting the musical, educational, and administrative activities of the string program shall remain exclusively with the string program director(s).
-
-### Section 6. Topicality
-
-No matters will be discussed that originate outside the organization. All matters will be introduced by a Member.
-
-Article X - Amendments
-----------------------
+Article IX - Amendments
+-----------------------
 
 The Bylaws of the Corporation may be amended or repealed by the Board of Directors.
