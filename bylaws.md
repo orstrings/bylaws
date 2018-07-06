@@ -32,7 +32,7 @@ The Annual Report needs to provide the above information as of the end of the tw
 
 Special meetings of the Regular Members entitled to vote at a meeting may be called at any time by the President, the Board of Directors, or members entitled to cast ten (10%) percent of the total number of votes entitled to be cast at such a meeting.  The request may specify a date for the meeting that is not less than two (2) months from the date the request is delivered to the Secretary.  The Secretary shall send out notice of a special meeting within five (5) business days after receipt of the request.
 
-Notice of a Special Meeting shall be provided as set forth in Section 6 below, but shall also state (a) whether the meeting is being called by the Board of Directors or upon request of members pursuant to this section; and (b) the purpose of purposes for which it is being called.  No business shall be conducted at the special meeting that is not included in such notice.
+Notice of a Special Meeting shall be provided as set forth in Section 5 below, but shall also state (a) whether the meeting is being called by the Board of Directors or upon request of members pursuant to this section; and (b) the purpose of purposes for which it is being called.  No business shall be conducted at the special meeting that is not included in such notice.
 
 ### Section 4. Place of Meetings
 
@@ -44,17 +44,17 @@ a. Written notice shall be given of each meeting of Regular Members, shall state
 
 b. A copy of the notice of any meeting of Regular Members shall be given in a manner determined in good faith by the President not less than ten (10) nor more than fifty (50) days before the date of the meeting, to each Regular Members entitled to vote at such meeting.  Such manner of delivery may include, without limitation, inclusion of such notice in a newsletter, mailing, email, facsimile, text message, or other publication intended for the parents or legal guardians of students in the Oyster River Cooperative School District.
 
-c. Notice of meeting need not be given to any member who submits a signed waiver of notice, in person or by proxy, whether before or after the meeting.  The attendance of any member at a meeting in person or by proxy, without protesting prior to the conclusion of the meeting the lack of notice of such meeting, shall constitute a waiver of notice by him.  Waivers may be provided: (i) in a writing signed by member or the member’s proxy either in hard copy or by affixing a signature by any reasonable means (e.g., fax signature); or (ii) by e-mail that includes information from which the recipient can reasonably determine that the transmission was authorized by the individual submitting the waiver.
+c. Notice of meeting of Regular Members need not be given to any member who submits a signed waiver of notice, in person or by proxy, whether before or after the meeting.  The attendance of any member at a meeting in person or by proxy, without protesting prior to the conclusion of the meeting the lack of notice of such meeting, shall constitute a waiver of notice by him.  Waivers may be provided: (i) in a writing signed by member or the member’s proxy either in hard copy or by affixing a signature by any reasonable means (e.g., fax signature); or (ii) by e-mail that includes information from which the recipient can reasonably determine that the transmission was authorized by the individual submitting the waiver.
 
 ### Section 6. Qualifications of Voters
 
-a. Each the Regular Members of record of the Corporation, in good standing, shall be entitled to one vote on matters on which the member is entitled to vote.
+a. Each of the Regular Members of record of the Corporation, in good standing, shall be entitled to one vote on matters on which the member is entitled to vote.
 
 b. The Board may fix a date as the record date for the purpose of determining the Regular Members entitled to vote at any meeting of Regular Members or any adjournment thereof, or to express consent to or dissent from any proposal without a meeting.
 
 ### Section 7. Quorum and Adjourned Meetings
 
-a. Five (5) Regular Members in attendance a meeting of Regular Members shall constitute a quorum for the transaction of any business.  When a quorum is once present to organize a meeting, it is not broken by the subsequent withdrawal of any Regular Members.
+a. Five (5) Regular Members in attendance at meeting of Regular Members shall constitute a quorum for the transaction of any business.  When a quorum is once present to organize a meeting, it is not broken by the subsequent withdrawal of any Regular Members.
 
 b. Despite the absence of a quorum, the Regular Members present may adjourn the meeting to another time and place and it shall not be necessary to give notice of the adjourned meeting if the time and place to which the meeting is adjourned are announced at the meeting at which the adjournment is taken.  If a quorum is present at the adjourned meeting, any business may be transacted that might have been transacted on the original date of the meeting.  If after the adjournment, however, the Board of Directors fixes a new record date for determining the Regular Members entitled to vote at the adjourned meeting, a notice of the adjourned meeting shall be given to each member then entitled to notice under Section 3 of this Article.
 
@@ -193,7 +193,7 @@ Additional officers may be elected for such period, have such authority and perf
 
 ### Section 4. Removal of Officers
 
-Any officer may be removed by the Board of Directors with or without cause at any time
+Any officer may be removed by the Board of Directors with or without cause at any time.
 
 ### Section 5. Resignation
 
@@ -209,7 +209,7 @@ The President shall act as the chief executive officer of the Corporation and sh
 
 ### Section 8. President Elect
 
-In the absence or incapacity to act of the President, or if the office of President be vacant, the President Elect shall preside at all meetings of the Board of Directors, and shall perform the duties and exercise the powers of the President, subject to the right of the Board from time to time to extend or confine such powers and duties or to assign them to others. The President Elect shall serve for one year, starting with the Annual Meeting at which such President Elect is elected, and terminating at the next such Annual Meeting, at which point the President Elect shall become President, unless otherwise determined by the Directors. The President Elect shall have such powers and shall perform such other duties as may be assigned by the Board of Directors or the President. 
+In the absence or incapacity to act of the President, or if the office of President be vacant, the President Elect shall preside at all meetings of the Board of Directors, and shall perform the duties and exercise the powers of the President, subject to the right of the Board from time to time to extend or confine such powers and duties or to assign them to others. The President Elect shall serve for one year, starting with the Annual Meeting at which such President Elect is elected, and terminating at the next such Annual Meeting, at which point the President Elect shall become President, unless otherwise determined by the Board of Directors. The President Elect shall have such powers and shall perform such other duties as may be assigned by the Board of Directors or the President. 
 
 ### Section 9. Treasurer
 
