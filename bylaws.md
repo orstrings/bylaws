@@ -54,7 +54,7 @@ b. The Board may fix a date as the record date for the purpose of determining th
 
 ### Section 7. Quorum and Adjourned Meetings
 
-a. Five (5) Regular Members in attendance at meeting of Regular Members shall constitute a quorum for the transaction of any business.  When a quorum is once present to organize a meeting, it is not broken by the subsequent withdrawal of any Regular Members.
+a. Five (5) Regular Members in attendance at a meeting of Regular Members shall constitute a quorum for the transaction of any business.  When a quorum is once present to organize a meeting, it is not broken by the subsequent withdrawal of any Regular Members.
 
 b. Despite the absence of a quorum, the Regular Members present may adjourn the meeting to another time and place and it shall not be necessary to give notice of the adjourned meeting if the time and place to which the meeting is adjourned are announced at the meeting at which the adjournment is taken.  If a quorum is present at the adjourned meeting, any business may be transacted that might have been transacted on the original date of the meeting.  If after the adjournment, however, the Board of Directors fixes a new record date for determining the Regular Members entitled to vote at the adjourned meeting, a notice of the adjourned meeting shall be given to each member then entitled to notice under Section 3 of this Article.
 
